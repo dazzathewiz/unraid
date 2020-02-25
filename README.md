@@ -2,5 +2,5 @@
 
 Snippets of scripts used to customise and manage an Unraid server
 
-- downloadkeyfile
+- downloadkeyfile.sh
   Grabs your Unraid keyfile from a secured S3 bucked to auto start an encrypted array
